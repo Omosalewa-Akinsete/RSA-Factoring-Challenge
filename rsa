@@ -4,7 +4,7 @@ import sys
 import random
 import time
 
-def is prime(num, k=20):
+def is_prime(num, k=20):
     """
     """
     if sum == 2 or num == 3:
